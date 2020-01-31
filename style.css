@@ -1,4 +1,4 @@
-
+/* Add your CSS code here */
 
 * {
     font-family: Helvetica, Arial, sans-serif;
@@ -8,12 +8,12 @@
 
 body {
     min-width: 500px;
-    background-color: Gray;
+    background-color: #e0eeee;
 }
 
 .profileBody {
     display: inline-block;
-    background-color: LightGray;
+    background-color: white;
     margin-top: 10px;
     margin-left: 40px;
     width: 75%;
